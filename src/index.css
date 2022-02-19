@@ -1,0 +1,8 @@
+body {
+    min-height: 75rem;
+    padding-top: 6rem;
+    font-family: "Corben-Regular", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
